@@ -20,9 +20,9 @@ E ricordiamoci che console.log() è nostro amico!
 Buon lavoro!
 
 ANALISI ES: 
-MILESTONE 0: creare un array di oggetti con le info fornite
-MILESTONE 1: stampare su console, per ogni membro del team, le info di nome, ruolo e stringa della foto
-    1. eseguo un ciclo
+MILESTONE 0: creare un array di oggetti con le info fornite ok
+MILESTONE 1: stampare su console, per ogni membro del team, le info di nome, ruolo e stringa della foto OK
+    1. eseguo un ciclo OK
     2. all'interno del ciclo faccio un consolelog in cui stampo nome, ruolo e stringa della foto
 MILESTONE 2: stampare le stesse info sotto forma di  stringhe
     1. imposto in html un elemento che conterrà le stringhe
