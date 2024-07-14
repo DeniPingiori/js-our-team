@@ -18,3 +18,22 @@ Scott Estrada	- Developer - scott-estrada-developer.jpg
 Barbara Ramos - Graphic Designer - barbara-ramos-graphic-designer.jpg
 E ricordiamoci che console.log() è nostro amico!
 Buon lavoro!
+
+ANALISI ES: 
+MILESTONE 0: creare un array di oggetti con le info fornite
+MILESTONE 1: stampare su console, per ogni membro del team, le info di nome, ruolo e stringa della foto
+    1. eseguo un ciclo
+    2. all'interno del ciclo faccio un consolelog in cui stampo nome, ruolo e stringa della foto
+MILESTONE 2: stampare le stesse info sotto forma di  stringhe
+    1. imposto in html un elemento che conterrà le stringhe
+    2. richiamo l'elemento nel js
+    3. ciclo l'array
+    4. inserisco nell'html attraverso innerhtml o altro la stringa generata
+
+info's team: 
+Wayne Barnett - Founder & CEO - wayne-barnett-founder-ceo.jpg
+Angela Caroll - Chief Editor - angela-caroll-chief-editor.jpg
+Walter Gordon - Office Manager - walter-gordon-office-manager.jpg
+Angela Lopez - Social Media Manager - angela-lopez-social-media-manager.jpg
+Scott Estrada - Developer - scott-estrada-developer.jpg
+Barbara Ramos - Graphic Desiner - barbara-ramos-graphic-desiner.jpg
